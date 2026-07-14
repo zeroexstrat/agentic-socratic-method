@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "candidate_version": 2,
+  "candidate_sha256": "be06caba3691b8bfd29c94993a9597e419c1d1c9e9a8282102a5d74e404aff8f",
+  "selected_iteration": "iterations/v2-draft.md",
+  "selected_register": "technical_expository",
+  "register_support_evidence_ids": ["ev-0006", "ev-0007", "ev-0014", "holdout-0004", "holdout-0006"],
+  "profile_trait_ids": ["trait-process-over-essence", "trait-concrete-cross-scale-consequence", "trait-material-support-beneath-abstraction", "trait-first-person-as-implication", "trait-operational-return", "trait-earned-boundary", "trait-register-modulation"],
+  "obligation_results": [
+    {"category": "claims", "index": 0, "status": "pass"},
+    {"category": "claims", "index": 1, "status": "pass"},
+    {"category": "claims", "index": 2, "status": "pass"},
+    {"category": "claims", "index": 3, "status": "pass"},
+    {"category": "claims", "index": 4, "status": "pass"},
+    {"category": "claims", "index": 5, "status": "pass"},
+    {"category": "claims", "index": 6, "status": "warning", "note": "The hostile final pass and zero-waiver Sol signoff remain, but the required 128/48/16 artifact counts were removed."},
+    {"category": "claims", "index": 7, "status": "pass"},
+    {"category": "claims", "index": 8, "status": "pass"},
+    {"category": "uncertainties", "index": 0, "status": "pass"},
+    {"category": "uncertainties", "index": 1, "status": "pass"},
+    {"category": "required_movements", "index": 0, "status": "pass"},
+    {"category": "required_movements", "index": 1, "status": "pass"},
+    {"category": "required_movements", "index": 2, "status": "pass"},
+    {"category": "required_movements", "index": 3, "status": "pass"},
+    {"category": "required_movements", "index": 4, "status": "pass"},
+    {"category": "required_movements", "index": 5, "status": "pass"},
+    {"category": "required_movements", "index": 6, "status": "pass"},
+    {"category": "required_movements", "index": 7, "status": "pass"}
+  ],
+  "quotation_checks": [],
+  "citation_checks": [],
+  "word_count": 1854,
+  "iteration_summaries": [{"iteration": "iterations/v2-draft.md", "summary": "External adversarial revision compressed the chronology, foregrounded mechanism and human agency, and preserved the i7/i11 status boundary."}],
+  "residue_classifications": [
+    {"device": "Corrective antitheses used for contract and provenance boundaries", "classification": "mixed_or_uncertain"},
+    {"device": "Short terminal return to the human turn", "classification": "author_supported"}
+  ],
+  "semantic_fidelity": "warning",
+  "epistemic_integrity": "pass",
+  "register_fit": "pass",
+  "parody_risk": "low",
+  "errors": [],
+  "warnings": [
+    "Frozen claim 6 is incomplete because the 128 total cells, 48 executable cells, and 16 embedded figures were removed.",
+    "The phrase seventh version is ambiguous because product numbering begins at i0.",
+    "The phrase same claim came back twice more compresses related but distinct quantizer findings.",
+    "The external audit estimated approximately 2,000 words; the deterministic count is 1,854.",
+    "The author profile was validated under a historical VeryMe runtime contract."
+  ],
+  "final_verdict": "ready_for_human_review"
+}

@@ -1,0 +1,19 @@
+{
+  "artifacts": {
+    "author-profile.json": "ad2641b50ef3a9ebdcbc4bee9497b917bc65ca0d01a2ae95fbdb6a862ad3c1d1",
+    "author-profile.md": "068047984c291f359bf035ceb76fb4fe8b6f38d5bb0c5d0bd9505235b0c78f44",
+    "corpus-manifest.json": "45d240a57ab8f0256a9bd901b035c7113659d36486a99dd08e5fcdbbcab2a00b",
+    "evidence-ledger.jsonl": "593d1fa315c3a46dea77b2be23f24f6087b8efec6e389550bfba6ba9bb422abc",
+    "register-map.md": "c6ab5683460443a0e69514b07e8e3eb4632be95421a0b767d158f25268f11fd8",
+    "voice-directive.md": "5ff88d320792a7c7cd45d138441c81a95887c10851e50b75d5012e8b21e12322"
+  },
+  "profile_contract": "legacy_validated",
+  "profile_limitations": [
+    "profile was validated under a historical runtime contract"
+  ],
+  "run_id": "20260711T091312Z",
+  "run_root": "/Users/tovarishchrafa/Desktop/ai-projects/veryme/output/runs/20260711T091312Z",
+  "schema_version": 1,
+  "selected_register": null,
+  "selected_register_support": []
+}

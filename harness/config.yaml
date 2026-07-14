@@ -1,0 +1,37 @@
+# Cross-model convergence loop — configuration
+workspace_root: ".."          # relative to harness/
+
+models:
+  OPUS48:
+    adapter: anthropic         # see orchestrator._call_opus48
+    model: "claude-opus-4-8"
+  SOL56:
+    adapter: external           # see orchestrator._call_sol56 — wire your provider
+    model: "sol-5.6"
+
+roles:
+  steward_on_even_iter: OPUS48  # SOL56 stewards odd iterations
+  # auditor each round is whichever model is NOT steward
+
+artifacts:
+  contract: "CONTRACT.md"
+  ledger: "LEDGER.md"
+  product_pattern: "product/product_i{n}.ipynb"
+  audit_pattern: "audits/audit_{self}_i{n}.md"
+  metaaudit_pattern: "metaaudits/metaaudit_{self}_i{n}.md"
+  rework_pattern: "rework/rework_{self}_i{n}.md"
+  signoff_pattern: "signoff/SIGNOFF_{self}.md"
+
+guards:
+  max_iterations: 6             # hard stop; hand unresolved LEDGER to human
+  min_substantive_findings_per_model: 3   # anti-collapse
+  contested_rounds_before_escalation: 2   # anti-deadlock
+  freeze_resolved_after_confirm: true     # anti-oscillation
+  run_code_cells: true          # execute notebook during audit + rework
+  tiebreak_model: null          # set to a 3rd model id to auto-arbitrate CONTESTED
+
+convergence:
+  require_both_signoffs: true
+  signoffs_must_name_same_version: true
+  zero_open_or_contested_at: [BLOCKER, MAJOR]
+  minors_open_allowed_if_waived_by_both: true

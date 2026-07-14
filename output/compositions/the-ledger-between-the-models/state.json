@@ -1,0 +1,132 @@
+{
+  "client": "codex",
+  "composition_id": "the-ledger-between-the-models",
+  "current_candidate_version": 3,
+  "history": [
+    {
+      "details": {},
+      "event": "initialized",
+      "state": "initialized",
+      "timestamp": "2026-07-14T08:35:02.994469+00:00"
+    },
+    {
+      "details": {},
+      "event": "drafting_started",
+      "state": "drafting",
+      "timestamp": "2026-07-14T08:35:02.995163+00:00"
+    },
+    {
+      "details": {},
+      "event": "internal_review_completed",
+      "state": "internal_review",
+      "timestamp": "2026-07-14T08:40:30.526546+00:00"
+    },
+    {
+      "details": {
+        "audit_sha256": "d22892d90e44804b82e5d62233d39477229fa27647f00f9793671b444679058f",
+        "candidate_sha256": "806bd0f6d4fba501c59644bebcfcbb9bfb06eb52ac9944610e6479d83d7bb01d",
+        "candidate_version": 1,
+        "warnings": [
+          "legacy_validated_profile",
+          "The author profile was validated under a historical VeryMe runtime contract.",
+          "The contemporary reflective-technical register has limited profile evidence and unknown provenance; this candidate therefore uses conservative technical exposition rather than claiming exact voice reconstruction.",
+          "This is a single-project worked example, not comparative evidence that the protocol outperforms alternatives.",
+          "Candidate remains pending human review and has not been accepted or published."
+        ]
+      },
+      "event": "candidate_submitted",
+      "state": "pending_review",
+      "timestamp": "2026-07-14T08:40:30.528366+00:00"
+    },
+    {
+      "details": {
+        "candidate_version": 1
+      },
+      "event": "candidate_returned",
+      "state": "returned",
+      "timestamp": "2026-07-14T17:38:04.905871+00:00"
+    },
+    {
+      "details": {
+        "candidate_version": 2
+      },
+      "event": "revision_started",
+      "state": "drafting",
+      "timestamp": "2026-07-14T17:38:04.907182+00:00"
+    },
+    {
+      "details": {},
+      "event": "internal_review_completed",
+      "state": "internal_review",
+      "timestamp": "2026-07-14T17:39:46.833076+00:00"
+    },
+    {
+      "details": {
+        "audit_sha256": "08d9f00dd2c6ee6e998e0a6cfc89c73394eaa1d1ce0db19423d4db1c9fb6929e",
+        "candidate_sha256": "be06caba3691b8bfd29c94993a9597e419c1d1c9e9a8282102a5d74e404aff8f",
+        "candidate_version": 2,
+        "warnings": [
+          "legacy_validated_profile",
+          "Frozen claim 6 is incomplete because the 128 total cells, 48 executable cells, and 16 embedded figures were removed.",
+          "The phrase seventh version is ambiguous because product numbering begins at i0.",
+          "The phrase same claim came back twice more compresses related but distinct quantizer findings.",
+          "The external audit estimated approximately 2,000 words; the deterministic count is 1,854.",
+          "The author profile was validated under a historical VeryMe runtime contract."
+        ]
+      },
+      "event": "candidate_submitted",
+      "state": "pending_review",
+      "timestamp": "2026-07-14T17:39:46.834473+00:00"
+    },
+    {
+      "details": {
+        "candidate_version": 2
+      },
+      "event": "candidate_returned",
+      "state": "returned",
+      "timestamp": "2026-07-14T17:39:46.916054+00:00"
+    },
+    {
+      "details": {
+        "candidate_version": 3
+      },
+      "event": "revision_started",
+      "state": "drafting",
+      "timestamp": "2026-07-14T17:39:46.917843+00:00"
+    },
+    {
+      "details": {},
+      "event": "internal_review_completed",
+      "state": "internal_review",
+      "timestamp": "2026-07-14T17:41:12.071129+00:00"
+    },
+    {
+      "details": {
+        "audit_sha256": "a44b0c23292f98daf880faa585de4a087fd7261a23fd461033e83099ef935b60",
+        "candidate_sha256": "261b27eb08acd37e886a526df81783adf9d082a68d38ea76a41fa72d0f0dda96",
+        "candidate_version": 3,
+        "warnings": [
+          "legacy_validated_profile",
+          "The author profile was validated under a historical VeryMe runtime contract.",
+          "The contemporary reflective-technical register has limited profile evidence and unknown provenance; this candidate uses conservative technical exposition rather than claiming exact voice reconstruction.",
+          "This is a single-project worked example, not comparative evidence that the protocol outperforms alternatives.",
+          "Candidate remains pending human review and has not been accepted or published."
+        ]
+      },
+      "event": "candidate_submitted",
+      "state": "pending_review",
+      "timestamp": "2026-07-14T17:41:12.071887+00:00"
+    }
+  ],
+  "model": "gpt-5",
+  "schema_version": 1,
+  "status": "pending_review",
+  "supersedes": null,
+  "warnings": [
+    "legacy_validated_profile",
+    "The author profile was validated under a historical VeryMe runtime contract.",
+    "The contemporary reflective-technical register has limited profile evidence and unknown provenance; this candidate uses conservative technical exposition rather than claiming exact voice reconstruction.",
+    "This is a single-project worked example, not comparative evidence that the protocol outperforms alternatives.",
+    "Candidate remains pending human review and has not been accepted or published."
+  ]
+}

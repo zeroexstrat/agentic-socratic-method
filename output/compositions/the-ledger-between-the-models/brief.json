@@ -1,0 +1,114 @@
+{
+  "audience": [
+    "technically literate portfolio readers",
+    "software engineering recruiters",
+    "AI workflow automation recruiters",
+    "operations research recruiters",
+    "practitioners designing agentic review systems"
+  ],
+  "composition_id": "the-ledger-between-the-models",
+  "genre": "reflective technical portfolio essay",
+  "idea": "Explain the nb99 Socratic agentic method as an engineered process for turning cross-model disagreement into a more trustworthy educational artifact, while showing that the human remains responsible for the contract, scope, reopening decisions, and publication.",
+  "must_avoid": [
+    "Do not describe model agreement as proof of truth.",
+    "Do not claim that product_i11 has two-model convergence or an Opus signoff.",
+    "Do not call FABLE5 a party to the frozen two-model contract.",
+    "Do not reduce the essay to a repository tour, setup guide, or list of features.",
+    "Do not turn the ending into a product pitch.",
+    "Do not imitate lowercase, fragments, favorite terms, or dramatic cadence mechanically.",
+    "Do not invent test results, citations, model capabilities, or causal performance claims."
+  ],
+  "obligations": {
+    "citations": [],
+    "claims": [
+      "The project merged a rigorous, self-check-heavy notebook and a build-until-it-breaks narrative notebook into one NumPy-based course.",
+      "The frozen human contract defined six auditable axes and made external mathematical truth outrank both source notebooks.",
+      "The workflow alternated audit, meta-audit, rework, and signoff, with the filesystem serving as the durable coordination layer.",
+      "Formal two-model zero-waiver convergence occurred on product_i7 after 33 findings, an unchanged verification round, and signatures from both models on the same artifact.",
+      "The process included consequential reopenings and a retracted premature signoff, showing why resolved findings and signoffs were not treated as irrevocable truth.",
+      "A later human-commissioned FABLE5 audit found pedagogical scar tissue and prompted a bounded recomposition phase outside the original contract loop.",
+      "The final product_i11 contains 128 cells, including 48 executable code cells and 16 embedded figures, and passed Sol's independent final checks with a zero-waiver signoff.",
+      "The historical Opus signoff still names product_i7, so product_i11 must not be described as satisfying the original two-model convergence predicate.",
+      "The reusable method is a governance pattern for bounded artifact review, not evidence that model consensus guarantees truth."
+    ],
+    "quotations": [],
+    "required_movements": [
+      "Open with the filesystem baton or a ledger row as the concrete carrier.",
+      "Explain why merging the two source notebooks created conflicts that ordinary drafting could hide.",
+      "Show how the contract, roles, ledger states, frozen fixes, and executable checks made disagreement operational.",
+      "Use at least two concrete failure-and-reopening episodes to show that the method could correct its own premature confidence.",
+      "Move from the formal i7 convergence to the human decision to reopen pedagogy and the bounded path to i11.",
+      "State the exact status boundary between i7 and i11.",
+      "Extract the smallest reusable engineering pattern without presenting the project as a universal benchmark.",
+      "End with human judgment as the authority that writes the contract, changes the scope, and decides whether the artifact is ready to publish."
+    ],
+    "uncertainties": [
+      "The archive demonstrates this method on one notebook-convergence project; it does not establish comparative performance against other review protocols.",
+      "A clean execution and a closed ledger establish compliance with the chosen contract, not universal correctness or pedagogical perfection."
+    ]
+  },
+  "publication_target": "portfolio and public project repository",
+  "requested_register": "technical expository with reflective first-person implication",
+  "schema_version": 1,
+  "source_material": [
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/README.md",
+      "role": "supporting_source",
+      "sha256": "aef4f7dc6fa3a60faf150fbfca6822df66d4fea0abd6cfbb3aded3b0e2e88423"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/CONTRACT.md",
+      "role": "required_source",
+      "sha256": "809f0d7a91584cb49ddef37fe18495172628663eccf742b266cbee7b092beb77"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/LEDGER.md",
+      "role": "required_source",
+      "sha256": "cd9fad0f1734a6eceb499b4c25cf05c43bf11c8325e1099fd12b7254597896ba"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/signoff/SIGNOFF_OPUS48.md",
+      "role": "required_source",
+      "sha256": "668e8b6e6f6d8e5177bd0992687e5e5f47270e0038716b1b8853cf997acd4143"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/signoff/SIGNOFF_SOL56.md",
+      "role": "required_source",
+      "sha256": "42faca1f0558f11664f59bed49e483f74a459601b5b5736fef6e80d6872855dc"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/audits/audit_FABLE5_i7.md",
+      "role": "required_source",
+      "sha256": "af500e3ff9976b7771f884678a9dc96cd9df9da5e36a3a3dcf34bcb8b08c6331"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/audits/audit_SOL56_i11.md",
+      "role": "required_source",
+      "sha256": "9a18cdfc5c6b7089c222bc83f55c59d9eb92f138de40a5f1a9b5b95b9ebd5553"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/rework/rework_FABLE5_i8.md",
+      "role": "supporting_source",
+      "sha256": "0ad7e5d71f399d2dbe3bcbb1c6ec6ba43437ef139880fb37607d22e2ad5891cd"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/rework/rework_FABLE5_i9.md",
+      "role": "supporting_source",
+      "sha256": "c7a264ad4c23c86f183df8f7c2266152caa6af440e6025b19b159c299799695d"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/rework/rework_SOL56_i10.md",
+      "role": "supporting_source",
+      "sha256": "b5ab10b370b7810483d98473ab41f97728795b9be872ace661fb321fd3813914"
+    },
+    {
+      "path": "/Users/tovarishchrafa/Desktop/Dialogues/nb99-socratic-agentic-method/product/product_i11.ipynb",
+      "role": "required_source",
+      "sha256": "1902accaa9bfb1627182557552e5d3bd193b2ee2e2703dfeddfa11b4751162bf"
+    }
+  ],
+  "target_length": {
+    "maximum_words": 2400,
+    "minimum_words": 1800
+  }
+}

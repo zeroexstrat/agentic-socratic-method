@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "candidate_version": 3,
+  "candidate_sha256": "261b27eb08acd37e886a526df81783adf9d082a68d38ea76a41fa72d0f0dda96",
+  "selected_iteration": "iterations/v3-draft.md",
+  "selected_register": "technical_expository",
+  "register_support_evidence_ids": ["ev-0006", "ev-0007", "ev-0014", "holdout-0004", "holdout-0006"],
+  "profile_trait_ids": ["trait-process-over-essence", "trait-concrete-cross-scale-consequence", "trait-material-support-beneath-abstraction", "trait-first-person-as-implication", "trait-operational-return", "trait-earned-boundary", "trait-register-modulation"],
+  "obligation_results": [
+    {"category": "claims", "index": 0, "status": "pass", "evidence": "The two source notebooks and the NumPy merge goal remain explicit."},
+    {"category": "claims", "index": 1, "status": "pass", "evidence": "All six contract axes and external-mathematics precedence remain explicit."},
+    {"category": "claims", "index": 2, "status": "pass", "evidence": "Audit, meta-audit, rework, alternating stewardship, signoff, ledger, and filesystem coordination remain explicit."},
+    {"category": "claims", "index": 3, "status": "pass", "evidence": "Formal convergence is now stated exactly as iteration 7 on product_i7, after 33 findings, same-artifact signatures, and an unchanged round."},
+    {"category": "claims", "index": 4, "status": "pass", "evidence": "The retracted signoff and related quantizer reopenings remain concrete without collapsing distinct findings into one repeated claim."},
+    {"category": "claims", "index": 5, "status": "pass", "evidence": "The third-model pedagogy audit remains outside the frozen contract and leads to the bounded human recomposition charter."},
+    {"category": "claims", "index": 6, "status": "pass", "evidence": "The integrated product_i11 sentence restores 128 total cells, 48 executable cells, 16 embedded figures, hostile final review, and the one-model zero-waiver signoff."},
+    {"category": "claims", "index": 7, "status": "pass", "evidence": "The essay explicitly distinguishes the surviving product_i7 signoff and stop record from the one-model product_i11 signoff."},
+    {"category": "claims", "index": 8, "status": "pass", "evidence": "The closing method is framed as a bounded governance pattern, not consensus as proof."},
+    {"category": "uncertainties", "index": 0, "status": "pass", "evidence": "The essay calls the project one worked example and makes no comparative superiority claim."},
+    {"category": "uncertainties", "index": 1, "status": "pass", "evidence": "Convergence remains scoped to what the chosen contract measured."},
+    {"category": "required_movements", "index": 0, "status": "pass", "evidence": "The essay opens on turn.json as the concrete carrier."},
+    {"category": "required_movements", "index": 1, "status": "pass", "evidence": "The opening shows how an ordinary fluent merge could conceal conflicts and dropped derivations."},
+    {"category": "required_movements", "index": 2, "status": "pass", "evidence": "Contract, roles, ledger states, frozen fixes, and execution checks make disagreement operational."},
+    {"category": "required_movements", "index": 3, "status": "pass", "evidence": "The quantizer/signoff episode and the later recomposition regressions provide two distinct failure-and-reopening movements."},
+    {"category": "required_movements", "index": 4, "status": "pass", "evidence": "The narrative moves from formal i7 convergence through the human pedagogy reopening to i11."},
+    {"category": "required_movements", "index": 5, "status": "pass", "evidence": "The i7/i11 status boundary remains explicit and unblurred."},
+    {"category": "required_movements", "index": 6, "status": "pass", "evidence": "The method section extracts the smallest reusable engineering pattern with a single-case caveat."},
+    {"category": "required_movements", "index": 7, "status": "pass", "evidence": "The ending returns contract choice, scope, and public authorship to the human."}
+  ],
+  "quotation_checks": [],
+  "citation_checks": [],
+  "word_count": 1876,
+  "iteration_summaries": [
+    {"iteration": "iterations/v3-draft.md", "summary": "Applied the three approved corrections to v2: exact iteration numbering, differentiated quantizer coverage findings, and integrated product_i11 structure and execution evidence."}
+  ],
+  "residue_classifications": [
+    {"device": "Corrective antitheses in the contract and provenance boundaries", "classification": "mixed_or_uncertain", "reason": "They remain where scope control is semantically necessary and are not used as a universal cadence."},
+    {"device": "Rigor and movement pairing for the source notebooks", "classification": "deliberate_local_device", "reason": "The distinction is evidenced by the source artifacts and motivates the merge."},
+    {"device": "Operational inventory in the reusable-minimum paragraph", "classification": "author_supported", "reason": "Every item maps to an implemented mechanism and earns the essay's operational return."},
+    {"device": "Short terminal return to the human turn", "classification": "author_supported", "reason": "It returns the opening baton to the unresolved publication decision without recapitulating the essay."}
+  ],
+  "semantic_fidelity": "pass",
+  "epistemic_integrity": "pass",
+  "register_fit": "pass",
+  "parody_risk": "low",
+  "errors": [],
+  "warnings": [
+    "The author profile was validated under a historical VeryMe runtime contract.",
+    "The contemporary reflective-technical register has limited profile evidence and unknown provenance; this candidate uses conservative technical exposition rather than claiming exact voice reconstruction.",
+    "This is a single-project worked example, not comparative evidence that the protocol outperforms alternatives.",
+    "Candidate remains pending human review and has not been accepted or published."
+  ],
+  "final_verdict": "ready_for_human_review"
+}

@@ -1,0 +1,10 @@
+{
+  "candidate_version": 3,
+  "prior_candidate_sha256": "be06caba3691b8bfd29c94993a9597e419c1d1c9e9a8282102a5d74e404aff8f",
+  "prior_candidate_version": 2,
+  "schema_version": 1,
+  "source_path": "/Users/tovarishchrafa/Desktop/ai-projects/agentic-socratic-method/output/compositions/the-ledger-between-the-models/v2-to-v3-feedback.md",
+  "source_sha256": "96eedebf9698ef1bf5374a50202779009e0c6b17c026d63ac7aa38690a9fe006",
+  "text": "# Human feedback on candidate v2\n\nUse candidate v2 as the editorial base and produce candidate v3 with only these corrections:\n\n1. Replace \u201cthe seventh version\u201d with the exact \u201citeration 7, on `product_i7`\u201d formulation because product numbering begins at `i0`.\n2. Replace \u201cthe same claim came back twice more\u201d with wording that distinguishes related quantizer coverage assumptions from one identical repeated claim.\n3. Restore the frozen `product_i11` evidence\u2014128 total cells, 48 executable cells, and 16 embedded figures\u2014in one integrated sentence, without returning to CI-log prose.\n\nPreserve v2\u2019s thematic structure, first-person ownership, exact `product_i7`/`product_i11` status boundary, and final human publication gate.\n",
+  "timestamp": "2026-07-14T17:39:46.915398+00:00"
+}

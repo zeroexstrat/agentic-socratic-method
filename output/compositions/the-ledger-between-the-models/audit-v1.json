@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "candidate_version": 1,
+  "candidate_sha256": "806bd0f6d4fba501c59644bebcfcbb9bfb06eb52ac9944610e6479d83d7bb01d",
+  "selected_iteration": "iterations/v1-revision-1.md",
+  "selected_register": "technical_expository",
+  "register_support_evidence_ids": [
+    "ev-0006",
+    "ev-0007",
+    "ev-0014",
+    "holdout-0004",
+    "holdout-0006"
+  ],
+  "profile_trait_ids": [
+    "trait-process-over-essence",
+    "trait-concrete-cross-scale-consequence",
+    "trait-material-support-beneath-abstraction",
+    "trait-first-person-as-implication",
+    "trait-operational-return",
+    "trait-earned-boundary",
+    "trait-register-modulation"
+  ],
+  "obligation_results": [
+    {
+      "category": "claims",
+      "index": 0,
+      "status": "pass",
+      "evidence": "Opening establishes the derivation/self-check source, the build-until-break source, and the NumPy merge goal."
+    },
+    {
+      "category": "claims",
+      "index": 1,
+      "status": "pass",
+      "evidence": "Giving disagreement a state names all six CONTRACT axes and the external-truth precedence rule."
+    },
+    {
+      "category": "claims",
+      "index": 2,
+      "status": "pass",
+      "evidence": "The essay describes the audit, meta-audit, rework, signoff, alternating roles, ledger, and turn-baton flow."
+    },
+    {
+      "category": "claims",
+      "index": 3,
+      "status": "pass",
+      "evidence": "The first convergence section states product_i7, 33 findings, same-artifact signatures, no waivers, and the unchanged verification round."
+    },
+    {
+      "category": "claims",
+      "index": 4,
+      "status": "pass",
+      "evidence": "The SFT and quantizer episodes include consequential reopenings, independent counterexamples, and Opus's recorded signoff retraction."
+    },
+    {
+      "category": "claims",
+      "index": 5,
+      "status": "pass",
+      "evidence": "The essay identifies Fable as outside CONTRACT section 7, explains qualification sediment, and describes the bounded human charter."
+    },
+    {
+      "category": "claims",
+      "index": 6,
+      "status": "pass",
+      "evidence": "The i11 section states 128 total cells, 48 code cells, 16 figures, final execution results, and Sol's zero-waiver signoff."
+    },
+    {
+      "category": "claims",
+      "index": 7,
+      "status": "pass",
+      "evidence": "The status paragraph explicitly says Opus signs i7, Sol signs i11, and i11 does not meet the original two-model predicate."
+    },
+    {
+      "category": "claims",
+      "index": 8,
+      "status": "pass",
+      "evidence": "The closing section extracts a bounded governance pattern and refuses a universal theory claim."
+    },
+    {
+      "category": "uncertainties",
+      "index": 0,
+      "status": "pass",
+      "evidence": "The essay calls the repository one worked example and makes no comparative-performance claim."
+    },
+    {
+      "category": "uncertainties",
+      "index": 1,
+      "status": "pass",
+      "evidence": "The i7 scope paragraph distinguishes contract compliance from universal correctness and pedagogical perfection."
+    },
+    {
+      "category": "required_movements",
+      "index": 0,
+      "status": "pass",
+      "evidence": "The essay opens on turn.json as a concrete filesystem baton."
+    },
+    {
+      "category": "required_movements",
+      "index": 1,
+      "status": "pass",
+      "evidence": "The opening explains how fluent merging could hide conflicts, omissions, and weakened truth."
+    },
+    {
+      "category": "required_movements",
+      "index": 2,
+      "status": "pass",
+      "evidence": "The contract, exact-location findings, states, role separation, execution, and frozen-fix rule are developed before examples."
+    },
+    {
+      "category": "required_movements",
+      "index": 3,
+      "status": "pass",
+      "evidence": "The essay gives the SFT overclaim, quantizer assertion-by-coincidence, boundary zero-point, and strict-positivity episodes."
+    },
+    {
+      "category": "required_movements",
+      "index": 4,
+      "status": "pass",
+      "evidence": "The narrative moves from i7 convergence through Fable's human-commissioned audit and bounded recomposition to i11."
+    },
+    {
+      "category": "required_movements",
+      "index": 5,
+      "status": "pass",
+      "evidence": "A dedicated paragraph preserves the exact i7/i11 signoff and convergence boundary."
+    },
+    {
+      "category": "required_movements",
+      "index": 6,
+      "status": "pass",
+      "evidence": "The method section offers a minimum operational pattern and retains the single-case limitation."
+    },
+    {
+      "category": "required_movements",
+      "index": 7,
+      "status": "pass",
+      "evidence": "The ending locates contract choice, scope change, public authorship, and publication readiness with the human."
+    }
+  ],
+  "quotation_checks": [],
+  "citation_checks": [],
+  "word_count": 1855,
+  "iteration_summaries": [
+    {
+      "iteration": "iterations/v1-draft.md",
+      "summary": "Established the filesystem baton as carrier, the i7/i11 status boundary, two reopening episodes, the Fable recomposition turn, and the human publication gate."
+    },
+    {
+      "iteration": "iterations/v1-revision-1.md",
+      "summary": "Replaced an ambiguous claim about the retracted signoff file with the ledger record, added the exact sixteen-warning count, reduced generic model scaffolding, and tightened the coauthorship ending."
+    }
+  ],
+  "residue_classifications": [
+    {
+      "device": "Corrective antithesis in the contract and convergence-scope passages",
+      "classification": "mixed_or_uncertain",
+      "reason": "The pattern is visible, but it performs necessary boundary work and is supported by trait-earned-boundary; repeated instances were limited."
+    },
+    {
+      "device": "Rigor and movement pairing for the two source notebooks",
+      "classification": "deliberate_local_device",
+      "reason": "The distinction comes directly from the project sources and explains why the merge was necessary."
+    },
+    {
+      "device": "Operational inventory in the reusable-minimum paragraph",
+      "classification": "author_supported",
+      "reason": "Each item maps to an implemented repository mechanism and satisfies the required operational return."
+    },
+    {
+      "device": "Short terminal sentence That turn is still mine",
+      "classification": "mixed_or_uncertain",
+      "reason": "It risks a polished terminal cadence, but it returns the opening baton to the exact unresolved human publication decision rather than recapitulating the essay."
+    }
+  ],
+  "semantic_fidelity": "pass",
+  "epistemic_integrity": "pass",
+  "register_fit": "pass",
+  "parody_risk": "low",
+  "errors": [],
+  "warnings": [
+    "The author profile was validated under a historical VeryMe runtime contract.",
+    "The contemporary reflective-technical register has limited profile evidence and unknown provenance; this candidate therefore uses conservative technical exposition rather than claiming exact voice reconstruction.",
+    "This is a single-project worked example, not comparative evidence that the protocol outperforms alternatives.",
+    "Candidate remains pending human review and has not been accepted or published."
+  ],
+  "final_verdict": "ready_for_human_review"
+}
